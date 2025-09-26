@@ -40,15 +40,15 @@ Naukri_Job_Trends/
 ## 📑 Usage  
 
 1. **Scraping**  
-   - Run `scripts/naukri_scraped.ipynb` to scrape jobs from Naukri.com.  
+   - Run `scripts/naukri_scraped.py` to scrape jobs from Naukri.com.  
    - The results will be saved in `data/raw/`.  
 
 2. **Cleaning & Preprocessing**  
-   - Run `scripts/naukri_cleaned.ipynb` to clean the scraped data.  
+   - Run `scripts/naukri_cleaned.py` to clean the scraped data.  
    - Outputs will be stored in `data/cleaned/`.  
 
 3. **Analysis & Visualization**  
-   - Run `scripts/naukri_processed.ipynb` to generate plots and insights.  
+   - Run `scripts/naukri_processed.py` to generate plots and insights.  
    - Visuals will be saved under `outputs/`.  
 
 ---
