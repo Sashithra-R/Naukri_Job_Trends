@@ -1,0 +1,1494 @@
+﻿skill,count
+python,561
+machine learning,279
+sql,273
+data analysis,238
+business analysis,133
+data analytics,128
+hive,125
+data science,112
+data,109
+artificial intelligence,100
+natural language processing,97
+project management,90
+etl,86
+aws,85
+data modeling,83
+power bi,81
+django,80
+development,79
+python development,77
+pyspark,76
+data management,74
+computer science,69
+data engineering,65
+azure,63
+deep learning,57
+tableau,57
+data warehousing,56
+snowflake,52
+tensorflow,52
+analytical,50
+analytics,49
+data mining,49
+data visualization,47
+scala,46
+automation,46
+spark,43
+gcp,43
+agile,43
+test cases,42
+git,41
+ml,40
+scikit,40
+data analyst,40
+learn,40
+documentation,39
+machine,39
+flask,39
+pytorch,39
+algorithms,38
+amazon redshift,38
+data integration,36
+numpy,35
+excel,34
+gap analysis,34
+rest,34
+business analytics,33
+software,33
+analysis,32
+pandas,31
+software development,31
+nlp,30
+continuous integration,30
+advanced excel,30
+data processing,30
+database design,29
+postgresql,28
+azure databricks,28
+data structures,28
+data validation,28
+data quality,28
+java,27
+oracle,27
+software testing,27
+business analyst,26
+etl process,26
+kubernetes,25
+design principles,25
+cloud,25
+c++,24
+generative ai,24
+business solutions,24
+fast api,23
+computer vision,23
+api,23
+monitoring,22
+cd,22
+mysql,21
+bi,21
+statistics,21
+version control,21
+root cause analysis,20
+client engagement,20
+programming,20
+warehouse,20
+javascript,20
+llm,19
+azure data factory,19
+ci,19
+coding,18
+rfp,18
+business requirement analysis,18
+stakeholder management,18
+charts,18
+debugging,18
+css,18
+data scientist,17
+docker,17
+b testing,17
+management,17
+neural networks,17
+dashboards,17
+data architecture,17
+requirement gathering,17
+data bricks,17
+a,17
+sql queries,16
+big data,16
+data collection,16
+sas,16
+big query,16
+mongodb,16
+supply chain,16
+cloud functions,16
+ai system performance,16
+data pipeline architecture,15
+html,15
+jira,15
+consulting,15
+system design,15
+open source,15
+business intelligence,15
+backend,14
+machine learning algorithms,14
+user stories,14
+aiml,14
+hadoop,13
+data manipulation,13
+performance tuning,13
+operations,13
+agile methodology,13
+deployment,13
+presentation skills,13
+communication skills,13
+erp,13
+mathematics,13
+metadata,12
+informatica,12
+r,12
+forecasting,12
+devops,12
+orchestration,12
+data governance,12
+nosql,12
+change request,12
+healthcare,12
+gen ai,12
+django framework,12
+sap,12
+ml algorithms,11
+research,11
+configuration,11
+predictive modeling,11
+languages,11
+process,11
+python framework,11
+rfi,10
+process mapping,10
+microsoft,10
+azure cloud,10
+processing,10
+azure data lake,10
+macros,10
+airflow,10
+confluence,10
+financial services,10
+ai,10
+troubleshooting,10
+market research,9
+apache,9
+statistical modeling,9
+time series analysis,9
+linux,9
+data warehousing concepts,9
+keras,9
+rag,9
+image processing,9
+predictive,9
+architecture,9
+bigquery,9
+guidewire,9
+mlops,8
+agentic ai,8
+analytical skills,8
+data pipeline,8
+networking,8
+uat,8
+business process modeling,8
+microservices,8
+azure synapse,8
+sdlc,8
+requirement analysis,8
+data cleansing,8
+change management,8
+training,8
+cnn,8
+langchain,8
+jquery,8
+integration testing,8
+kafka,8
+oops,8
+waterfall,8
+vba,8
+github,7
+json,7
+distribution system,7
+workflow,7
+formulas,7
+predictive analytics,7
+modeling,7
+data services,7
+operations research,7
+customer service,7
+automation testing,7
+unit testing,7
+cloud computing,7
+process improvement,7
+engineering,7
+manager quality assurance,7
+scrum,7
+science,7
+logistic regression,7
+brd,7
+information retrieval,7
+time series,6
+rdbms,6
+hiring,6
+plsql,6
+iot,6
+bi tools,6
+manager technology,6
+san,6
+jenkins,6
+ml pipelines,6
+regression,6
+cloud platform,6
+diversity and inclusion,6
+xgboost,6
+application development,6
+google,6
+ssis,6
+risk management,6
+dashboard development,6
+dbms,6
+rest api,6
+framework,6
+finance,6
+sales,6
+visio,6
+reporting,6
+database management,5
+statistical analysis,5
+power query,5
+web technologies,5
+ci cd pipeline,5
+django rest api,5
+golang,5
+genai,5
+object oriented programming,5
+front end,5
+wellness,5
+conditional formatting,5
+svm,5
+process automation,5
+product engineering,5
+reporting tools,5
+selenium,5
+xml,5
+health insurance,5
+integration,5
+hypothesis testing,5
+cloud technologies,5
+pivot table,5
+vlookup,5
+data visualization tools,5
+cloudera,5
+analysis tools,5
+continuous improvement,5
+bpmn,4
+business modeling,4
+purview,4
+pipeline,4
+containerization,4
+project,4
+rpa,4
+sap s hana,4
+mis,4
+usage,4
+problem solving,4
+google sheets,4
+project delivery,4
+capital market,4
+hlookup,4
+dynamics,4
+test scenarios,4
+schema,4
+qa,4
+compliance,4
+requirements,4
+data reporting,4
+regulatory reporting,4
+operational excellence,4
+telecom,4
+orm,4
+rest api services,4
+bootstrap,4
+software design,4
+model development,4
+azure machine learning,4
+master data,4
+databricks,4
+e,4
+python developer,4
+big data technologies,4
+iac,4
+scalability,4
+transformers,4
+scipy,4
+large language model,4
+llms,4
+program,4
+adobe,4
+ml libraries,4
+data security,4
+advanced analytics,4
+software engineering,4
+software development life cycle,4
+looker,4
+platform architecture,3
+office,3
+business reporting,3
+emission,3
+cbap,3
+design development,3
+process mining,3
+frd,3
+recruitment,3
+data extraction,3
+order management,3
+iam,3
+commerce,3
+quality management,3
+use cases,3
+process modeling,3
+process flow diagram,3
+system integration,3
+business process analysis,3
+business requirements,3
+business strategy,3
+etl tool,3
+written communication,3
+excellent communication in english,3
+cdc,3
+snowflake db,3
+dax,3
+excellent verbal and written communication skills,3
+focus,3
+pdf,3
+openlink endur,3
+salesforce,3
+object,3
+dl,3
+fabric,3
+german,3
+c#,3
+ops,3
+fastapi,3
+career development,3
+eda,3
+accessories,3
+cobol,3
+business acumen,3
+matlab,3
+terraform,3
+cloud platforms,3
+crm,3
+model building,3
+gen,3
+intelligence,3
+scheduling,3
+restful api,3
+databricks ml services,3
+ml frameworks,3
+simulation,3
+investment banking,3
+spring boot,3
+program management,3
+strategic planning,3
+actuarial,3
+data flow,3
+retail,3
+query,3
+interpersonal skills,3
+mis reporting,3
+solution architecture,3
+sql azure,3
+da,3
+pan,3
+azure devops,3
+python data,3
+container,3
+vertex ai,3
+digital marketing,3
+cloud services,3
+retrieval augmented generation,3
+machine learning engineer,3
+business process,3
+ctv,3
+digital media,3
+huggingface,3
+client interaction,3
+web development,3
+react.js,3
+aws lambda,3
+sqlalchemy,3
+web scraping,3
+power bi dashboards,3
+etl pipelines,3
+do,3
+secondary research,3
+oracle sql,3
+informatica mdm,3
+supply chain management,3
+openai,3
+sql development,3
+information technology,3
+shell scripting,3
+management skills,2
+sigma,2
+tibco spotfire,2
+power bi reports,2
+azure data warehouse,2
+application portfolio management,2
+solution design,2
+production,2
+orbus,2
+application,2
+anomaly detection,2
+text analytics,2
+deep learning frameworks,2
+cassandra,2
+aws iam,2
+bitbucket,2
+celery,2
+angular 8,2
+j query,2
+neo4j,2
+spring,2
+relational databases,2
+design patterns,2
+serverless,2
+web framework,2
+db,2
+backend development,2
+serverless architecture,2
+python web framework,2
+report generation,2
+data scraping,2
+rest apis,2
+stored procedures,2
+html5,2
+lookup,2
+http,2
+oracle adf,2
+s3,2
+server,2
+computer,2
+data automation,2
+saas,2
+apqp,2
+tibco,2
+aws sagemaker,2
+r program,2
+al,2
+data visualizations,2
+database creation,2
+manager quality control,2
+advertising,2
+tableau reporting,2
+data transformation,2
+software development methodologies,2
+hyperparameter tuning,2
+embedded systems,2
+tools,2
+clustering,2
+cms,2
+h2o,2
+mllib,2
+system architecture,2
+hp data protector,2
+athena,2
+lambada,2
+langgraph,2
+deploying models,2
+simulink,2
+classification,2
+eks,2
+rnn,2
+plm,2
+master data management,2
+tdd,2
+agile development,2
+application design,2
+api development,2
+mining,2
+elk,2
+.net,2
+ansible,2
+process design,2
+silicon,2
+unix,2
+facilitation,2
+bert,2
+side,2
+python programming,2
+fhir,2
+dns,2
+solution delivery,2
+payroll,2
+automotive,2
+flow,2
+vertex,2
+mlflow,2
+hugging face transformers,2
+asr,2
+ml deployment,2
+hardware,2
+algorithm development,2
+publishing,2
+windows,2
+redis,2
+engineering manager,2
+enterprise applications,2
+mis preparation,2
+mdm,2
+idb,2
+jcl,2
+data conversion,2
+looker studio,2
+studio,2
+cad,2
+business planning,2
+chatbot,2
+azure cloud services,2
+opencv,2
+jupyter notebook,2
+product management,2
+digital advertising,2
+ann,2
+report automation,2
+spss,2
+digital,2
+kpi,2
+data integrity,2
+financial reporting,2
+budgeting,2
+office suite,2
+contract management,2
+design,2
+cloud architecture,2
+formulation,2
+relationship building,2
+payment domain,2
+avaloq,2
+functional analysis,2
+ux,2
+etrm,2
+ctrm,2
+vendor management,2
+regression testing,2
+quality assurance,2
+writing,2
+edc,2
+identity access management,2
+marketing,2
+bfsi,2
+pharma,2
+client handling,2
+capital markets,2
+aptitude,2
+tririga,2
+hrsd,2
+real estate,2
+big data analytics,2
+six sigma,2
+requirements management,2
+asset management,2
+angular,2
+sprint,2
+team management,2
+regulatory,2
+project life cycle,2
+salesforce sales cloud,2
+quality improvement,2
+technical documentation,2
+mob,2
+fmcg,2
+data migration,2
+statistical analyses,2
+product quality,2
+sem,2
+settlements,2
+retail banking,2
+gap,2
+dynamics crm,2
+c,2
+wealth management,2
+functional,2
+forex,2
+trade life cycle,2
+treasury,2
+business process improvement,2
+sap hana,2
+lending,2
+ba,2
+aws cloud,2
+production support,2
+tds,2
+wireframing,2
+trello,2
+payments,2
+central finance,2
+prototype,2
+workday,2
+open ai,2
+pricing analysis,2
+pricing strategy,2
+crewai,2
+autogen,2
+ai engineer,2
+vision,2
+ip,2
+project implementation,2
+scm,2
+sharepoint,2
+us healthcare,2
+large language models,2
+random forest,2
+sdk,2
+it services,2
+disaster recovery,2
+informatica powercenter,2
+celonis,2
+market analysis,2
+operational risk,2
+data lake,2
+j2ee,2
+apache pig,2
+container orchestration,2
+database maintenance,2
+hr implementation,2
+data architectures,1
+sql alchemy,1
+django rest,1
+cognos,1
+birt,1
+regression analysis,1
+foundry,1
+teradata,1
+public cloud,1
+bayesian modelling,1
+portfolio,1
+iserver,1
+infinity,1
+apm tools,1
+apm,1
+mixpanel,1
+insight generation,1
+intellij,1
+data pipelines,1
+pycharm,1
+njang,1
+interviewing,1
+statsmodels,1
+pymc,1
+monte carlo simulations,1
+rabbitmq,1
+testing tools,1
+python engineer,1
+react,1
+iot protocols,1
+powershell scripting,1
+nodejs,1
+php,1
+operations planning,1
+ragflow,1
+dify,1
+langflow,1
+loans,1
+underwriting,1
+classical ml,1
+classical,1
+components,1
+web services,1
+messaging systems,1
+nosql databases,1
+big data hadoop,1
+evals,1
+virtualization,1
+user acceptance testing,1
+powercenter,1
+project planning,1
+aws glue,1
+s1862577,1
+informatica data quality,1
+apache flink,1
+oracle database,1
+database administration,1
+core banking,1
+sap sd,1
+emr,1
+parquet,1
+snowpipe,1
+cloud server,1
+perl,1
+software quality assurance,1
+isp,1
+e3,1
+due diligence,1
+digital content,1
+workforce planning,1
+cosmos,1
+document processing,1
+ai model deployment,1
+physics based modelling,1
+data ingestion,1
+python data scientist,1
+building,1
+tcae,1
+llm integration,1
+cloud integration,1
+object detection,1
+hsse,1
+data build tool,1
+data conversions,1
+database marketing,1
+interpretation,1
+ml development,1
+ml&dl,1
+hybrid model,1
+data informatics analysis,1
+onedrive,1
+power apps,1
+power automate,1
+autodesk,1
+ai algorithms,1
+critical thinking,1
+functionality testing,1
+competitor analysis,1
+metrics,1
+servicenow,1
+epic,1
+srs,1
+business architecture,1
+togaf,1
+nielsen,1
+ups,1
+sap financial accounting,1
+compliance management,1
+governance,1
+governance risk and compliance,1
+sap transportation management,1
+sap tm,1
+analytics tool,1
+netsuite,1
+erp transition,1
+r language,1
+tableau data analyst,1
+metrics analysis,1
+pmo,1
+pmo management,1
+pmo project,1
+cicd,1
+data flow solutions,1
+llama,1
+hugging face,1
+dmexpress,1
+guidewire data analyst,1
+gw data analyst,1
+guidewire data models,1
+excel vba,1
+excel formulas,1
+data analyze,1
+redshift,1
+reservation,1
+demand analysis,1
+trend analysis,1
+competitive analysis,1
+issue resolution,1
+data modelling,1
+proposal documentation,1
+delivery management,1
+teamcenter,1
+sql programming,1
+ml modelling,1
+analyst 1,1
+sap mm,1
+resource management,1
+spectrum,1
+pms,1
+portfolio management services,1
+aviation,1
+billing,1
+corporate sustainability,1
+rms,1
+kantar,1
+growth navigator,1
+panel data,1
+circana,1
+household data,1
+plm teamcenter,1
+duck creek,1
+angular js,1
+product life cycle,1
+scrum master,1
+pam,1
+risk analytics,1
+corporate,1
+general insurance,1
+property and casualty insurance,1
+88140,1
+trade processing,1
+life cycle,1
+project operations,1
+p,1
+general,1
+private banking,1
+personal banking,1
+airline reservations,1
+airlines,1
+technical hiring,1
+sap project management,1
+sap ecc,1
+sap fico,1
+sap business planning and consolidation,1
+sap implementation,1
+reports,1
+gathering,1
+onboarding,1
+credit risk,1
+iq,1
+accounting,1
+financial products,1
+manual testing,1
+insurance,1
+pricing,1
+predictive analysis,1
+business partnering,1
+visualization technologies,1
+zoho,1
+erp systems,1
+hr analytics,1
+pidc23043401,1
+automation engineering,1
+manufacturing process,1
+process control,1
+ml engineer,1
+bidding,1
+insurance domain,1
+pricing analytics,1
+collateral management,1
+bdd,1
+odbc,1
+it projects,1
+technology solutions,1
+front,1
+exploratory,1
+exploratory data analysis,1
+property,1
+roi analysis,1
+reports and dashboards,1
+bancs,1
+pl,1
+j2ee applications,1
+regression testing tools,1
+xceptor,1
+no sql,1
+it security,1
+data quality analysis,1
+cmdb,1
+privileged id management,1
+crm systems,1
+workflow analysis,1
+business process mapping,1
+data mapping,1
+strategic initiatives,1
+frs,1
+user documentation,1
+control plan,1
+spc,1
+configuration management,1
+project scheduling,1
+data intelligence,1
+time management,1
+cloud applications,1
+team leadership,1
+stack holder management,1
+vsts,1
+bpo,1
+surfing,1
+variance analysis,1
+artifactory,1
+rhino,1
+jsp,1
+mql,1
+toad,1
+qlikview,1
+data interpretation,1
+functional specifications,1
+cism,1
+test management,1
+flow charts,1
+sap erp,1
+process optimization,1
+scada,1
+idocs,1
+alm,1
+contracts,1
+six,1
+analyst,1
+administration,1
+business objects,1
+s,1
+dataikue,1
+edi,1
+applications,1
+x12,1
+agile framework,1
+business case development,1
+salesforce data models,1
+schema design,1
+pharmacovigilance,1
+cdd,1
+lean,1
+business consulting,1
+corporate planning,1
+management consulting,1
+distribution,1
+sap presales,1
+project documentation,1
+pharma data,1
+project development,1
+csr,1
+functional testing,1
+system analysis,1
+security capabilities,1
+security,1
+strategic sourcing,1
+fp&a,1
+sme accounting,1
+translation,1
+research analysis,1
+journalism,1
+copy writing,1
+business rules,1
+21 cfr part 11,1
+sailpoint identity management,1
+excel expertise,1
+cost optimization,1
+basic,1
+construction,1
+product testing,1
+financial planning and analysis,1
+service revenue,1
+cross functional coordination,1
+cross functional teams,1
+marketing analytics,1
+sme general ledger,1
+accounting closure,1
+sailpoint,1
+idam,1
+identity governance,1
+problem management,1
+investor presentations,1
+operating manuals,1
+analytical skill,1
+franchising management,1
+erp implementation,1
+client management,1
+product implementation,1
+iterative,1
+diagramming,1
+kanban,1
+defect tracking,1
+retirement planning,1
+revenue planning,1
+revenue operations tooling,1
+revenue,1
+senior executive,1
+ecommerce,1
+business analyat,1
+strategy development,1
+communication,1
+commodity management,1
+murex,1
+teams,1
+reltio,1
+test management tools,1
+scrummaster,1
+sql query,1
+product owner,1
+data analysis expressions,1
+clinical workflows,1
+89671,1
+banking software,1
+dynamic,1
+saml,1
+oauth,1
+credential lifecycle management,1
+access administration,1
+fintech,1
+retirement,1
+analyst ii,1
+business insights,1
+customer experience,1
+telco,1
+project execution,1
+end user,1
+end,1
+sfdc,1
+strategy presentations,1
+trading,1
+oems,1
+trade operations,1
+financial markets,1
+middle office,1
+demand planning,1
+financial analysis,1
+core revops,1
+ecoa,1
+impact analysis,1
+roadmap,1
+cost benefit analysis,1
+benefits,1
+benefit analysis,1
+pitch development,1
+nlp libraries,1
+library,1
+sql performance tuning,1
+datafactory,1
+provident fund,1
+market data,1
+hypothesis,1
+linear algebra,1
+anova,1
+marketing analytics domain,1
+cpg,1
+optimization techniques,1
+dashboarding,1
+supervised learning,1
+mobile advertising,1
+games,1
+lte,1
+wireless networks,1
+python scripting,1
+grafana,1
+lotus notes,1
+regulations,1
+semantic,1
+ai ml,1
+planning,1
+treasury operations,1
+agile testing,1
+ncino,1
+communicational skills,1
+corporate lending,1
+alternate channel,1
+sdlc life cycle,1
+payments domain,1
+cards domain,1
+information gathering,1
+ledger,1
+blockchain,1
+smart contracts,1
+hyperledger,1
+corda,1
+web application,1
+service cloud,1
+poc,1
+uml,1
+it asset management,1
+data sets,1
+software asset management,1
+set,1
+workflow mapping,1
+process documentation,1
+collections,1
+cspo,1
+system compliance,1
+hcp,1
+e2e,1
+design and development,1
+pharmacy,1
+sez,1
+support services,1
+visualforce,1
+aem,1
+uipath,1
+ai adoption,1
+ai adoption consultant,1
+investment,1
+network architectures,1
+generative a,1
+adsales platforms,1
+media platforms,1
+media mix models,1
+ai models,1
+restful,1
+dataprep,1
+matrix,1
+workflow automation,1
+emr software,1
+clickup,1
+dashboard creation,1
+policies,1
+commodities,1
+ai agent,1
+otc derivatives,1
+techno functional,1
+magento,1
+woocommerce,1
+api concepts,1
+ui path components,1
+it operations,1
+ui path,1
+bau governance,1
+appian,1
+appian bpm,1
+business process management,1
+infrastructure automation,1
+flex,1
+stream processing,1
+cti,1
+traditional ml,1
+openai gpt,1
+programming languages,1
+onpremise,1
+jax,1
+campaign management,1
+mlt,1
+azure kubernetes service,1
+life sciences,1
+ivr,1
+ml ops,1
+tensor flow,1
+devops tools,1
+rtb,1
+articulate,1
+information management,1
+data consolidation,1
+ocr,1
+people development,1
+test driven development,1
+mis development,1
+deployment process,1
+ml models,1
+adk,1
+pattern recognition,1
+business communication,1
+document management,1
+secondary data,1
+database design development,1
+business data analyst,1
+data collection systems,1
+graphics,1
+gpm,1
+ios,1
+anaconda,1
+vulnerability management,1
+chip design,1
+physical verification,1
+vat,1
+product design,1
+mis generation,1
+statistical analyst,1
+dashboard design,1
+ssms,1
+manufacturing operations,1
+sensors,1
+python libraries,1
+business development,1
+retail sales,1
+aerospace,1
+marketing programs,1
+rto,1
+private equity,1
+hris,1
+technical leadership,1
+feature driven development,1
+ml lifecycle,1
+ml flow,1
+semiconductor,1
+modern trade,1
+sales management,1
+lead generation,1
+domestic sales,1
+clinical data management,1
+gaming,1
+leadership,1
+net mvcweb api,1
+asp,1
+technical support,1
+dsp,1
+consumer finance,1
+linguistics,1
+delta lake,1
+high performance computing,1
+prompt engineering,1
+meddra,1
+loinc,1
+ai platform,1
+hipaa,1
+signal processing,1
+cuda,1
+transcription,1
+skill development,1
+quantitative research,1
+medical devices,1
+model validation,1
+medical insurance,1
+nda,1
+outsourcing,1
+cost reduction,1
+amazon ec2,1
+research and development,1
+revenue generation,1
+software architecture,1
+web application development,1
+elastic search,1
+splunk,1
+targetlink,1
+report builder,1
+linux internals,1
+video analytics,1
+gen ai data scientist,1
+ai & ml models,1
+aks,1
+data science algorithms,1
+algorithm,1
+ai model,1
+customer loyalty,1
+customer retention,1
+retention,1
+loyalty,1
+customer engagement,1
+finance analytics,1
+ehr,1
+claidata,1
+claims,1
+reference data management,1
+implementation,1
+nltk,1
+graph database,1
+text and data processing,1
+langfuse,1
+bi publisher,1
+vhdl,1
+verilog,1
+hardware design,1
+uvm,1
+restful apis,1
+eda tools,1
+system,1
+optical networking,1
+ciena,1
+bios,1
+gsm,1
+application software,1
+online research,1
+downstream,1
+machine learning models,1
+workflow management,1
+infrastructure,1
+us gaap,1
+ites,1
+vice president it,1
+client interfacing,1
+client,1
+beam,1
+architectural design,1
+tester,1
+ensemble techniques,1
+ensemble,1
+spark mllib,1
+technology,1
+database,1
+python script,1
+tcp,1
+t,1
+star schema,1
+sql docker,1
+layout analysis,1
+internet searching,1
+quantitative,1
+business services,1
+learning,1
+social media,1
+pivot,1
+excel dashboards,1
+mapping,1
+statistical techniques,1
+generation ai,1
+large databases,1
+procurement,1
+ssrs,1
+msbi,1
+sql analysis services,1
+sql integration services,1
+embedded software,1
+olap,1
+er model,1
+telecommunication,1
+global operations,1
+french,1
+corporate finance,1
+reconciliation,1
+software configuration management,1
+cloud run,1
+google cloud,1
+python frameworks,1
+ms,1
+mis analysis,1
+fastai,1
+5g,1
+x lookup,1
+google analytics,1
+performance engineering,1
+bash,1
+apache spark,1
+dask,1
+api rest,1
+data preprocessing,1
+qliksense,1
+linux server,1
+influxdb,1
+mechanical,1
+testing,1
+cicd pipeline,1
+code review,1
+excellent communication skills,1
+ui,1
+meta llama,1
+validation,1
+yocto,1
+pytest,1
+rest api development,1
+web analytics,1
+adf,1
+quantitative analysis,1
+legal,1
+llp,1
+rca,1
+instrumentation,1
+customer relationship,1
+senior management,1
+infotainment,1
+cyber,1
+spring frameowrk,1
+scripting,1
+mvvm,1
+mvc,1
+performance,1
+postman,1
+azure ai search,1
+rag framework,1
+typescript,1
+restfull api,1
+technical design,1
+requests,1
+azzure,1
+python flask,1
+expresjs,1
+application programming,1
+flask web framework,1
+flask application,1
+cloud api,1
+splunk development,1
+flash,1
+data normalization,1
+server side development,1
+reactjs,1
+mercurial,1
+software engineer ii,1
+web crawling,1
+automation tools,1
+arinc,1
+python backend,1
+storage,1
+hibernate,1
+pmi,1
+rest architecture,1
+aws services,1
+relational mapping,1
+qa automation,1
+aws boto3 sdk,1
+cloud application,1
+software developer,1
+azure cosmos db,1
+azure functions,1
+gitlab ci,1
+lambda expressions,1
+api gateway,1
+iac tools,1
+mqtt,1
+restful api development,1
+powerapps,1
+asynchronous,1
+tornado,1
+dockers,1
+cloud native frameworks,1
+openshift,1
+python testing,1
+azure web apps,1
+azure blob storage,1
+cvs,1
+aws cloudformation,1
+dynamo db,1
+linux system administration,1
+django orm,1
+restapi,1
+dataframing,1
+asynchronous programming,1
+data structure and algorithm,1
+asynchronous apex,1
+dax queries,1
+vba automation,1
+lean methodology,1
+adf framework,1
+ticketing,1
+customer support,1
+react native,1
+mdx,1
+power pivot,1
+basic sql,1
+primary research,1
+market intelligence,1
+financial planning,1
+google bigquery,1
+aws redshift,1
+data quality management,1
+fullstack development,1
+troubleshoot,1
+maintain,1
+full stack,1
+data engineer,1
+atci,1
+4994271,1
+pharmaceutical,1
+rest api design,1
+multithreading,1
+hardware management,1
+performance management,1
+azure data engineering,1
+etl development,1
+bricks,1
+database management system,1
+digital analytics,1
+db2,1
+cloud security,1
+data operations,1
+streamsets,1
+azure stream analytics,1
+service operations,1
+subject matter expertise,1
+teaching,1
+sales report,1
+banking products,1
+palantir foundry,1
+process planning,1
+sap analytics cloud,1
+sap bw,1
+business transformation,1
+serverless development,1
+factory,1
+apache nifi,1
+core data,1
+cloud data migration,1
+corporate advisory,1
+sap bods,1
+aws postgresql,1
+palantir,1
+business integration,1
+oracle procedural language,1
+knowledge management,1
