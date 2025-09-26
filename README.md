@@ -24,14 +24,14 @@ Naukri_Job_Trends/
 ├── data/
 │   ├── raw/                 # Scraped raw data
 │   ├── cleaned/             # Cleaned dataset
-│   ├── processed/           # Final processed dataset 
+│   └── processed/           # Final processed dataset 
 │
 ├── outputs/                 # Generated plots & visualizations
 │
 ├── scripts/                 
-│   ├── naukri_scraped.ipynb     # Web scraping
-│   ├── naukri_cleaned.ipynb     # Data cleaning & preprocessing
-│   └── naukri_processed.ipynb   # Data analysis & visualization
+│   ├── naukri_scraped.py     # Web scraping
+│   ├── naukri_cleaned.py     # Data cleaning & preprocessing
+│   └── naukri_processed.py   # Data analysis & visualization
 │
 ├── requirements.txt          # Required Python packages
 └── README.md                 # Project documentation
